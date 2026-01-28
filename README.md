@@ -4,7 +4,7 @@
 
 ### Docker ビルド
 
-1. git clone git@github.com:/●●.git
+1. git clone git@github.com:kouda457/mock-case-flea-market-app.git
 1. docker-compose up -d --build
 
 
@@ -36,4 +36,5 @@ DB_PASSWORD=laravel_pass
 ## ER 図
 
 ![image](flea-market.drawio.png)
+
 # mock-case-flea-market-app
